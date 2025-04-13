@@ -1,0 +1,14 @@
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\QNA.exe
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\QNA.deps.json
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\QNA.runtimeconfig.json
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\QNA.dll
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\QNA.pdb
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\QNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\QNA.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\QNA.AssemblyInfo.cs
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\QNA.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\QNA.dll
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\refint\QNA.dll
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\QNA.pdb
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\QNA.genruntimeconfig.cache
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\ref\QNA.dll
