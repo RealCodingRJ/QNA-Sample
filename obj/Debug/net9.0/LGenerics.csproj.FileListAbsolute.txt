@@ -1,0 +1,14 @@
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\LGenerics.exe
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\LGenerics.deps.json
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\LGenerics.runtimeconfig.json
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\LGenerics.dll
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\bin\Debug\net9.0\LGenerics.pdb
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\LGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\LGenerics.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\LGenerics.AssemblyInfo.cs
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\LGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\LGenerics.dll
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\refint\LGenerics.dll
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\LGenerics.pdb
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\LGenerics.genruntimeconfig.cache
+C:\Users\Ryan\Documents\CSharp\Generics\LGenerics\obj\Debug\net9.0\ref\LGenerics.dll
