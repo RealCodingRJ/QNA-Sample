@@ -11,7 +11,7 @@ namespace QNA
         public string getQuestion()
         {
             Random r = new();
-            List<string> questions = new();
+            List<string> questions = [];
             questions.Add("When Is Your Birthday");
             questions.Add("Favorite Color");
             questions.Add("Name");
@@ -34,7 +34,7 @@ namespace Answer
 
         public List<string> getQuestion()
         {
-            List<string> answer = new();
+            List<string> answer = [];
 
             answer.Add("11/17/1999");
 
@@ -46,7 +46,13 @@ namespace Answer
         }
 
 
-    }
+        public  delegate void CorrectAnswer(string message);
+
+        public static CorrectAnswer d = (string message) => Console.WriteLine(message);
+
+
+        
+     }
 }
 
 
@@ -60,32 +66,38 @@ namespace LGenerics
             Console.WriteLine(q.getQuestion());
 
             Answer<string> answers = new();
-           
+            Answer<string> an = new Answer<string>();   
+        
 
             string? answer = Console.ReadLine();
 
             if (answer == null) return;
 
-            if (q.getQuestion().Contains("When") && answer.Equals(answers.getQuestion()[0]))
+            if (answer.Equals(answers.getQuestion()[0]))
             {
-                Console.WriteLine("Correct");
+                correctMessage("Correct");
             }
 
-            if (q.getQuestion().StartsWith("Name") && answer.Equals(answers.getQuestion()[1]))
+            if (answer.Equals(answers.getQuestion()[1]))
             {
-                Console.WriteLine("Correct");
+                correctMessage("Correct");
             } 
             
-            if (q.getQuestion().StartsWith("Favorite") && answer.Equals(answers.getQuestion()[2])) {
+            if (answer.Equals(answers.getQuestion()[2])) {
 
-                Console.WriteLine("Correct");
+               correctMessage("Correct");
 
             }
-
-
             Console.ReadLine();         
 
 
         }
+    
+        public static void correctMessage(string s)
+        {
+
+            Answer.Answer<string>.d.Invoke(s);
+        }
+
     }
 };
